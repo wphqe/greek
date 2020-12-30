@@ -1,5 +1,0 @@
-// 3rd element in each element refers to type of word: AD = adjective/adverb/particle, NM = masculine noun, NF = feminine noun, NN = neuter noun, V = verb
-var words = [[['ἀγαθός','ἀγαθή','ἀγαθόν'],['good'],'AD'],
-             [['ἄγαν'],['too much'],'AD'],
-	     [['ἄγγελος'],['messenger'],'NM']
-	    ];
